@@ -1,10 +1,10 @@
-# MixCam
+# ALDA-Attack
 
 This repository contains code to reproduce results from the paper:
 
-MixCam-Attack: Boosting the Transferability of Adversarial Examples with Class Activation Mapping
+ALDA: Enhancing the Transferability of Adversarial Examples with Attention-Guided Look-Ahead and Data Augmentation
 
-Sensen Guo, Xiaoyu Li, Peican Zhu, Dejun Mu
+Sensen Guo, Baocang Wang, Xiaoyu Li, Peican Zhu, Lianwei Wu Dejun Mu
 
 ## Requirements
 + Python >= 3.6.5
@@ -30,7 +30,7 @@ All the provided codes generate adversarial examples on inception_v3 model. If y
 Taking Admix attack for example, you can run this attack as following:
 
 ```
-python mi_mixcam.py 
+python attn_disrupt.py 
 ```
 
 #### Evaluating the attack
@@ -43,7 +43,7 @@ python simple_eval.py
 
 ## Acknowledgments
 
-Code refers to [Admix](https://github.com/JHL-HUST/Admix) and [Grad-Cam](https://github.com/JHL-HUST/VT).
+Code refers to [Admix](https://github.com/JHL-HUST/Admix), [Grad-Cam](https://github.com/JHL-HUST/VT) and [MixCAM](https://github.com/LongTerm417/MixCam).
 
 ## Contact
 
