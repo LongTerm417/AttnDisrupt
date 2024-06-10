@@ -1,10 +1,10 @@
 # ALDA-Attack
 
-This repository contains code to reproduce results from the paper:
+% This repository contains code to reproduce results from the paper:
 
-ALDA: Enhancing the Transferability of Adversarial Examples with Attention-Guided Look-Ahead and Data Augmentation
+% ALDA: Enhancing the Transferability of Adversarial Examples with Attention-Guided Look-Ahead and Data Augmentation
 
-Sensen Guo, Baocang Wang, Xiaoyu Li, Peican Zhu, Lianwei Wu Dejun Mu
+% Sensen Guo, Baocang Wang, Xiaoyu Li, Peican Zhu, Lianwei Wu Dejun Mu
 
 ## Requirements
 + Python >= 3.6.5
