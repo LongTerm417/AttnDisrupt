@@ -1,6 +1,6 @@
 # ALDA-Attack
 
-// This repository contains code for ALDA-Attack:
+This repository contains code for ALDA-Attack:
 
 
 ## Requirements
